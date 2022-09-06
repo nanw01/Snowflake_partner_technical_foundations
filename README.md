@@ -1,0 +1,1 @@
+# Snowflake_partner_technical_foundations
